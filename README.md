@@ -1,4 +1,4 @@
-# Analista Programador Frontend Pleno/Senhor
+# Analista Programador Frontend Pleno/Senior
 
 A aplicação que você deve desenvolver é uma modal de assinatura similar a que temos no Sexlog.com hoje
 
@@ -35,4 +35,4 @@ A aplicação que você deve desenvolver é uma modal de assinatura similar a qu
 
 ### Diferencial
 
-- Teste unitário
+- Teste unitário a
