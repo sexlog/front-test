@@ -24,7 +24,7 @@ A aplicação que você deve desenvolver é uma modal de assinatura similar a qu
 ### Workflow
 
 - Você é livre para escolher qualquer ferramenta (Angular, React, Vue, Less, Stylus e etc)
-- Ou se preferir não utilizar nenhuma fique avontade tambem
+- Ou se preferir não utilizar nenhuma fique a vontade tambem
 
 ### Vamos analisar
 

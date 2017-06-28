@@ -1,0 +1,53 @@
+{
+   "plans":[
+      {
+         "id":1,
+         "name":"1 mês",
+         "discount":"",
+         "total":"Total: R$ 49,90 em até 1x no cartão de crédito",
+         "price":{
+            "currency":"R$",
+            "integer":49,
+            "decimal":90,
+            "periodicy":"/mês"
+         },
+         "parc":[
+
+         ]
+      },
+      {
+         "id":2,
+         "name":"3 mês",
+         "discount":"Economize 40%",
+         "total":"Total: R$ 89,70 em até 3x iguais no cartão de crédito",
+         "price":{
+            "currency":"R$",
+            "integer":29,
+            "decimal":90,
+            "periodicy":"/mês"
+         },
+         "parc":[
+            "Parcelado em 1x de R$ 89,70",
+            "Parcelado em 2x de R$ 44,85",
+            "Parcelado em 3x de R$ 29,90"
+         ]
+      },
+      {
+         "id":3,
+         "name":"6 mês",
+         "discount":"Economize 54%",
+         "total":"Total: R$ 89,70 em até 3x iguais no cartão de crédito",
+         "price":{
+            "currency":"R$",
+            "integer":29,
+            "decimal":90,
+            "periodicy":"/mês"
+         },
+         "parc":[
+            "Parcelado em 1x de R$ 89,70",
+            "Parcelado em 2x de R$ 44,85",
+            "Parcelado em 3x de R$ 29,90"
+         ]
+      }
+   ]
+}
