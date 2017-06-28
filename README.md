@@ -1,30 +1,30 @@
 # Analista Programador Frontend Pleno/Senior
 
-A aplicação que você deve desenvolver é uma modal de assinatura similar a que temos no Sexlog.com hoje
+A aplicação que você deve desenvolver é uma modal de assinatura similar a que temos no Sexlog.com hoje.
 
 ### Getting Started
 
-- Deve ser feito um fork desse projeto
-- E ao terminar envie o endereço do repositório para o email x
-- E coloque o projeto em um domínio publico
+- Deve ser feito um fork desse projeto onde será desenvolvido o projeto
+- Ao terminar nos avise através do email x com o link do fork
+- Coloque o projeto em um domínio público para podermos testar
 
 ### Requisitos
 
-- Todos os dados estão contidos no arquivos x
-- O layout deve seguir esse modelo ()
+- Os dados estão contidos no arquivos x
+- Deixe o layout o mais próximo deste aqui x
 - O formulário deve ser validado com as seguintes regras:
     - Todos campos são obrigatórios
     - Número de cartão de crédito deve ser válido
     - A data deve ser maior que atual
-- Se houver algum erro deve ser apresentas de forma amigavel para o usuário*
+- Se houver algum erro no formulário apresente-o de forma amigavel para o usuário*
 - Após os dados validados e aprovados exibir uma tela de sucesso avisando o usuário que a assinatura foi concluida*
 
-\* Esses itens não estão no layout, queremos ver como você resolverá esses problemas
+\* Esses itens não estão no layout, queremos ver como você resolverá esses problemas (Enjoy it!)
 
 ### Workflow
 
-- Você é livre para escolher qualquer framework
-- Ou se preferir não utilizar nenhum fique avontade tambem
+- Você é livre para escolher qualquer ferramenta (Angular, React, Vue, Less, Stylus e etc)
+- Ou se preferir não utilizar nenhuma fique avontade tambem
 
 ### Vamos analisar
 
@@ -35,4 +35,4 @@ A aplicação que você deve desenvolver é uma modal de assinatura similar a qu
 
 ### Diferencial
 
-- Teste unitário a
+- Teste unitário
