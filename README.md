@@ -1,17 +1,18 @@
 # Analista Programador Frontend Pleno/Senior
 
-A aplicação que você deve desenvolver é uma modal de assinatura similar à que temos hoje no Sexlog.com
+A aplicação que você deve desenvolver é uma modal de assinatura similar à que temos hoje no Sexlog.com.
 
-### Getting Started
+### Instruções
 
-- Deve ser feito um fork desse projeto onde o mesmo será desenvolvido
-- Ao terminar nos avise através do email devfront@sexlog.com com o link do fork
+- Faça um fork desse projeto
+- Ao finalizar, nos avise através do email devfront@sexlog.com com o link do fork
 - Coloque o projeto em um domínio público para podermos testar
 
 ### Requisitos
 
 - Os dados estão contidos nos arquivos server/data.json
-- Deixe o layout o mais próximo deste aqui
+- O layout deverá ser responsivo
+- Deixe o mais próximo dos seguintes layouts:
     - Mobile: https://marvelapp.com/25g57ai/screen/29915439
     - Desktop: https://marvelapp.com/933511j/screen/29912580
 - O formulário deve ser validado com as seguintes regras:
@@ -31,7 +32,8 @@ A aplicação que você deve desenvolver é uma modal de assinatura similar à q
 
 - Design de código
 - Boas práticas
-- Utilização do git
+- Utilização do Git
+- Performance
 - UX
 
 ### Diferencial
