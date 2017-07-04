@@ -4,7 +4,8 @@ A aplicação que você deve desenvolver é uma modal de assinatura similar à q
 
 ### Instruções
 
-- Faça um fork desse projeto
+- Faça um clone desse projeto
+- Em seguida crie-o no seu github
 - Ao finalizar, nos avise através do email devfront@sexlog.com com o link do fork
 - Coloque o projeto em um domínio público para podermos testar
 
