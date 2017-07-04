@@ -1,30 +1,31 @@
 # Analista Programador Frontend Pleno/Senior
 
-A aplicação que você deve desenvolver é uma modal de assinatura similar a que temos no Sexlog.com hoje.
+A aplicação que você deve desenvolver é uma modal de assinatura similar à que temos hoje no Sexlog.com
 
 ### Getting Started
 
-- Deve ser feito um fork desse projeto onde será desenvolvido o projeto
-- Ao terminar nos avise através do email x com o link do fork
+- Deve ser feito um fork desse projeto onde o mesmo será desenvolvido
+- Ao terminar nos avise através do email devfront@sexlog.com com o link do fork
 - Coloque o projeto em um domínio público para podermos testar
 
 ### Requisitos
 
-- Os dados estão contidos no arquivos x
-- Deixe o layout o mais próximo deste aqui x
+- Os dados estão contidos nos arquivos server/data.json
+- Deixe o layout o mais próximo deste aqui
+    - Mobile: https://marvelapp.com/25g57ai/screen/29915439
+    - Desktop: https://marvelapp.com/933511j/screen/29912580
 - O formulário deve ser validado com as seguintes regras:
     - Todos campos são obrigatórios
-    - Número de cartão de crédito deve ser válido
-    - A data deve ser maior que atual
-- Se houver algum erro no formulário apresente-o de forma amigavel para o usuário*
-- Após os dados validados e aprovados exibir uma tela de sucesso avisando o usuário que a assinatura foi concluida*
+    - Número do cartão de crédito deve ser válido
+    - A data deve ser maior que a atual
+- Se houver algum erro no formulário apresente-o de forma amigável para o usuário*
 
-\* Esses itens não estão no layout, queremos ver como você resolverá esses problemas (Enjoy it!)
+\* Esses ítens não estão no layout. Queremos ver como você resolverá esses problemas (Enjoy it!)
 
 ### Workflow
 
-- Você é livre para escolher qualquer ferramenta (Angular, React, Vue, Less, Stylus e etc)
-- Ou se preferir não utilizar nenhuma fique a vontade tambem
+- Você é livre para escolher qualquer ferramenta (Angular, React, Vue, Less, Stylus, Gulp, Webpack e etc)
+- ou, se preferir, pode optar por não utilizar nenhuma. Fique à vontade!
 
 ### Vamos analisar
 

@@ -11,8 +11,11 @@
             "decimal":90,
             "periodicy":"/mês"
          },
-         "parc":[
-
+         "parc":[],
+         "payments": [
+             "Pagamento no <b>cartão de crédito</b>",
+             "Parcela única no <b>débito em conta</b>",
+             "Pagamento no <b>boleto bancário</b>"
          ]
       },
       {
@@ -30,7 +33,12 @@
             "Parcelado em 1x de R$ 89,70",
             "Parcelado em 2x de R$ 44,85",
             "Parcelado em 3x de R$ 29,90"
-         ]
+        ],
+        "payments": [
+            "Até 3x iguais no <b>cartão de crédito</b>",
+            "Parcela única no <b>débito em conta</b>",
+            "Pagamento no <b>boleto bancário</b>"
+        ]
       },
       {
          "id":3,
@@ -47,7 +55,12 @@
             "Parcelado em 1x de R$ 89,70",
             "Parcelado em 2x de R$ 44,85",
             "Parcelado em 3x de R$ 29,90"
-         ]
+        ],
+        "payments": [
+            "Até 6x iguais no <b>cartão de crédito</b>",
+            "Parcela única no <b>débito em conta</b>",
+            "Pagamento no <b>boleto bancário</b>"
+        ]
       }
    ]
 }
