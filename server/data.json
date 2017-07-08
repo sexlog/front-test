@@ -44,17 +44,20 @@
          "id":3,
          "name":"6 mês",
          "discount":"Economize 54%",
-         "total":"Total: R$ 89,70 em até 3x iguais no cartão de crédito",
+         "total":"Total: R$ 137,40 em até 3x iguais no cartão de crédito",
          "price":{
             "currency":"R$",
-            "integer":29,
+            "integer":22,
             "decimal":90,
             "periodicy":"/mês"
          },
          "parc":[
-            "Parcelado em 1x de R$ 89,70",
-            "Parcelado em 2x de R$ 44,85",
-            "Parcelado em 3x de R$ 29,90"
+            "Parcelado em 1x de R$ 137,40",
+            "Parcelado em 2x de R$ 68,70",
+            "Parcelado em 3x de R$ 45,80"
+            "Parcelado em 4x de R$ 35,35"
+            "Parcelado em 5x de R$ 27,48"
+            "Parcelado em 6x de R$ 22,90"
         ],
         "payments": [
             "Até 6x iguais no <b>cartão de crédito</b>",
