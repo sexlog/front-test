@@ -1,4 +1,4 @@
-# Analista Programador Frontend Pleno/Senior
+# Analista Programador Frontend Júnior
 
 A aplicação que você deve desenvolver é uma modal de assinatura similar à que temos hoje no Sexlog.com.
 
